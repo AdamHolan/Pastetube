@@ -1,0 +1,2 @@
+output: paste.c
+	gcc paste.c -o pastetube.exe
