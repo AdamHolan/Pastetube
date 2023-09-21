@@ -5,7 +5,7 @@ Right-Click Paste for YouTube videos.
 Dependencies: \
 yt-dlp: https://github.com/yt-dlp/yt-dlp \
 ffmpeg essentials: https://www.gyan.dev/ffmpeg/builds/ \
-(Both of these binaries must be in your PATH) \
+(Both of these binaries must be in your PATH) 
 
 Installation: \
 Double-Click the .reg file to import the registry key. 
