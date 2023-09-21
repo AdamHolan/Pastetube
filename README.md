@@ -10,4 +10,5 @@ ffmpeg essentials: https://www.gyan.dev/ffmpeg/builds/ \
 Installation: \
 Double-Click the .reg file to import the registry key. 
 
-Next, place the "pastetube" subfolder somewhere comfy and include it in your PATH. 
+Enter the pastetube subfolder. Compile source using MAKE. 
+Finally, place the "pastetube" subfolder somewhere comfy and include it in your PATH. 
